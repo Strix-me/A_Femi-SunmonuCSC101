@@ -1,5 +1,5 @@
 fn main() {
-	println!(" Wlcome to CSC 101")
+	println!(" Welcome to CSC 101")
 
 
 }
