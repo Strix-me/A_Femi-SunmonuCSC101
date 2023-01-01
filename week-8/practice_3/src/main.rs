@@ -5,7 +5,7 @@ fn value(n:Option<&char>)
 
 }
 fn main() {
-    let v = vec!['R','U','T','A','C','I','A','N' ];
+    let v = vec!['R','U','S','T','A','C','I','A','N' ];
     let mut input1 = String::new();
     println!("\nEnter an index value btw (0 - 8)");
     std::io::stdin().read_line(&mut input1).expect("Failed to read input");
